@@ -1,2 +1,3 @@
 #!/bin/bash
-java -jar /home/zach/Documents/something/MyProgram.jar
+cd "$(dirname "$0")"
+java -jar MyApp.jar
