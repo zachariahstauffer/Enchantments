@@ -1,6 +1,6 @@
 # Enchantments
 
-A simple Java console app that helps calculate Minecraft enchantment costs. You can enter each enchantment's name, level, price, and how many times you plan to buy it ("number of books"). The app then calculates the total emerald cost and the amount of material needed, displaying it in Minecraft-style stack format (64 items per stack).
+A simple Java console app that helps calculate Minecraft enchantment villager trade costs. You can enter each enchantment's name, level, price, and how many times you plan to buy it ("number of books"). The app then calculates the total emerald cost and the amount of material needed(eg. paper), displaying it in Minecraft-style stack format (64 items per stack).
 
 ---
 
@@ -36,5 +36,4 @@ or
 
 2. run the app
     2.1 if donloaded .zip, unzip it and continue
-    2.2 in terminal run `cd Enchantments`
-    2.3 in terminal run `java -jar MyApp.jar`
+    2.2 in terminal run `cd Enchantments` then `java -jar MyApp.jar`
